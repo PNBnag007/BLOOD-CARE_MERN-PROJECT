@@ -1,0 +1,21 @@
+.panel-control{
+    margin: 20px 0px;
+    height: 10vh;
+    width:100%;
+    background-color:#f8f8f8;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.input-control{
+    padding: 0px 20px;
+    height: 50%;
+    border-right :2px solid black;
+}
+
+.input{
+    margin-top: 0px;
+    padding: 0px;
+}

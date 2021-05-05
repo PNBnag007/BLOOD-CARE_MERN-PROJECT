@@ -1,0 +1,24 @@
+.editwrapper {
+    margin-top: -4%;  
+    position: relative;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 100px;
+    padding-top: 50px;
+    height: 70vh;
+    /* display: flex; */
+    border-left: 1px solid black;
+    justify-content:stretch;
+}
+
+.but-control{
+    display:flex;
+    justify-content: center;
+}
+
+.edititle{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}

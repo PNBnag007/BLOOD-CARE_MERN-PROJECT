@@ -28,15 +28,15 @@ also they can know the donors details who are willing to donate the blood nearby
 
 # EAD FEATURES
 1. TWO STEP VERIFICATION : 
-  - STEP -1 : Enter EMAIL AND PASSWORD.
-  - STEP -2 : Enter OTP sent to mobile
+   - STEP -1 : Enter EMAIL AND PASSWORD.
+   - STEP -2 : Enter OTP sent to mobile
 2. JWT  TOKEN BASED AUTHENTICATION: 
-  - To ensure the authenticity of the data received in JSON format and to send the data to only authorized users.
+   - To ensure the authenticity of the data received in JSON format and to send the data to only authorized users.
 3. EMAIL AND MOBILE NUMBER AUTHENTICATION:
-  - To ensue the authenticity of the user.
+   - To ensue the authenticity of the user.
 4. PASSWORD HASHING.
-  - User password is hashed and then stored in the database .
-  - Crypto-js library  from npm is used.
+   - User password is hashed and then stored in the database .
+   - Crypto-js library  from npm is used.
 
 
 # CONTRIBUTIONS

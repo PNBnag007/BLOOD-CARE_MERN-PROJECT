@@ -19,24 +19,24 @@ can order the required blood quantity by payment through razorpay.
 also they can know the donors details who are willing to donate the blood nearby them
 
 # TECH STACK
-Frontend -  REACT
-Backend  -  NODE JS , EXPRESS
-Editor - VScode
-Database - MONGODB
-Version control - Git, Github
-API - Rest
+-Frontend -  REACT
+-Backend  -  NODE JS , EXPRESS
+-Editor - VScode
+-Database - MONGODB
+-Version control - Git, Github
+-API - Rest
 
 # EAD FEATURES
-1)TWO STEP VERIFICATION : 
-  STEP -1 : Enter EMAIL AND PASSWORD.
-  STEP -2 : Enter OTP sent to mobile
-2)JWT  TOKEN BASED AUTHENTICATION: 
-  To ensure the authenticity of the data received in JSON format and to send the data to only authorized users.
-3) EMAIL AND MOBILE NUMBER AUTHENTICATION:
-  To ensue the authenticity of the user.
-4)PASSWORD HASHING.
-  User password is hashed and then stored in the database .
-  Crypto-js library  from npm is used.
+1.TWO STEP VERIFICATION : 
+  - STEP -1 : Enter EMAIL AND PASSWORD.
+  - STEP -2 : Enter OTP sent to mobile
+2.JWT  TOKEN BASED AUTHENTICATION: 
+  -To ensure the authenticity of the data received in JSON format and to send the data to only authorized users.
+3. EMAIL AND MOBILE NUMBER AUTHENTICATION:
+  -To ensue the authenticity of the user.
+4.PASSWORD HASHING.
+  -User password is hashed and then stored in the database .
+  -Crypto-js library  from npm is used.
 
 
 # CONTRIBUTIONS

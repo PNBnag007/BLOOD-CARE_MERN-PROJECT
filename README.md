@@ -8,6 +8,22 @@ Enterprise Application Development Course Project @IIITS
 - N. SIVA SAI KRISHNA - S20180010116
 - M. SUMANTH CHOWDARY -S20180010096
 
+# HOW TO RUN
+```
+Open Two terminals, let's say A & B
+
+In A:
+	cd bloodcare
+	npm install
+	npm start
+
+In B:
+	cd backend
+	npm install
+	npm start
+
+```
+
 # Problem Statement
 Despite advances in technology, today's blood bank systems are running in manual system.  As such, there is a  prevalent problem  in the availability of needed blood types.
 When a patient requires a rare blood group, if the hospital is running out of stock then family members and relatives are  trying  with social media for blood donors which is useless.Our Major features rely on providing blood in emergency situations to the needy. 

@@ -2,11 +2,11 @@
 Enterprise Application Development Course Project @IIITS
 
 # TEAM MEMBERS
-P. NAGENDRA BABU    - S20180010138
-Y. VISHNU TEJA      - S20180010196
-V. SOWMYA			    	   - S20180010187
-N. SIVA SAI KRISHNA - S20180010116
-M. SUMANTH CHOWDARY -S20180010096
+- P. NAGENDRA BABU    - S20180010138
+- Y. VISHNU TEJA      - S20180010196
+- V. SOWMYA			    	   - S20180010187
+- N. SIVA SAI KRISHNA - S20180010116
+- M. SUMANTH CHOWDARY -S20180010096
 
 # Problem Statement
 Despite advances in technology, today's blood bank systems are running in manual system.  As such, there is a  prevalent problem  in the availability of needed blood types.

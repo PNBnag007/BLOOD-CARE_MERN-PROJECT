@@ -74,7 +74,7 @@ also they can know the donors details who are willing to donate the blood nearby
 4. PASSWORD HASHING.
    - User password is hashed and then stored in the database .
    - Crypto-js library  from npm is used.
-
+<!-- 
 
 # CONTRIBUTIONS
 - N.SIVA  SAI  KRISHNA (S20180010116): 
@@ -102,7 +102,7 @@ also they can know the donors details who are willing to donate the blood nearby
   2. EDIT PROFILE(ADMIN) (FRONT END & BACKEND)
   3. SOCIAL MEDIA INTEGRATION (FRONTEND & BACKEND)
   4. JSON WEB TOKENIZATION (EAD FEATURE)
-
+ -->
 
 
 

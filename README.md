@@ -34,6 +34,27 @@ user  can get  the nearby blood donors details  and blood banks  details having 
 can order the required blood quantity by payment through razorpay.
 also they can know the donors details who are willing to donate the blood nearby them
 
+# NEARBY BLOOD BANKS
+IN THIS PAGE WE PROVIDE THE DETAILS OF THE BLOOD BANKS BY CITY, STATE AND BLOOD AVAILABILITY AND THE USER CAN ORDER THE BLOOD 
+![alt text](https://github.com/sherlockholmes211/Weather_App/blob/main/Screen%20Shots/Blood%20Banks%20Table.png)
+
+# ORDER PAGE
+IN THIS PAGE THE USER CAN BUY THE BLOOD WITH SPECIFIC QUANTITIES AND PAY THROUGH RAZORPAY PAYMENT GATEWAY
+![](https://github.com/sherlockholmes211/Weather_App/blob/main/Screen%20Shots/order.gif)
+
+# DONORS PAGE
+IN THIS PAGE THE USER CAN KNOW THE DONORS WHO ARE WILLING TO DONATE BLOOD
+![alt text](https://github.com/sherlockholmes211/Weather_App/blob/main/Screen%20Shots/Donors%20Table.png)
+
+# IMPLEMENTATION OF SECURITY (EAD) FEATURE
+- TWO STEP VERIFICATION : 
+  - STEP 1: Enter EMAIL AND PASSWORD.
+  - STEP 2: Enter OTP sent to mobile
+  - ![](https://github.com/sherlockholmes211/Weather_App/blob/main/Screen%20Shots/two%20step%20Verification.gif)
+- EMAIL AND MOBILE NUMBER AUTHENTICATION:
+  - To ensue the authenticity of the user.
+  - ![](https://github.com/sherlockholmes211/Weather_App/blob/main/Screen%20Shots/Email%20reset.gif)
+
 # TECH STACK
 - Frontend -  REACT
 - Backend  -  NODE JS , EXPRESS

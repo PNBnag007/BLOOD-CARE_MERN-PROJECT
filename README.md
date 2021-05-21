@@ -35,16 +35,16 @@ can order the required blood quantity by payment through razorpay.
 also they can know the donors details who are willing to donate the blood nearby them
 
 # NEARBY BLOOD BANKS
-IN THIS PAGE WE PROVIDE THE DETAILS OF THE BLOOD BANKS BY CITY, STATE AND BLOOD AVAILABILITY AND THE USER CAN ORDER THE BLOOD 
-![alt text](https://github.com/sherlockholmes211/Weather_App/blob/main/Screen%20Shots/Blood%20Banks%20Table.png)
+- IN THIS PAGE WE PROVIDE THE DETAILS OF THE BLOOD BANKS BY CITY, STATE AND BLOOD AVAILABILITY AND THE USER CAN ORDER THE BLOOD 
+- ![alt text](https://github.com/sherlockholmes211/Weather_App/blob/main/Screen%20Shots/Blood%20Banks%20Table.png)
 
 # ORDER PAGE
-IN THIS PAGE THE USER CAN BUY THE BLOOD WITH SPECIFIC QUANTITIES AND PAY THROUGH RAZORPAY PAYMENT GATEWAY
-![](https://github.com/sherlockholmes211/Weather_App/blob/main/Screen%20Shots/order.gif)
+- IN THIS PAGE THE USER CAN BUY THE BLOOD WITH SPECIFIC QUANTITIES AND PAY THROUGH RAZORPAY PAYMENT GATEWAY
+- ![](https://github.com/sherlockholmes211/Weather_App/blob/main/Screen%20Shots/order.gif)
 
 # DONORS PAGE
-IN THIS PAGE THE USER CAN KNOW THE DONORS WHO ARE WILLING TO DONATE BLOOD
-![alt text](https://github.com/sherlockholmes211/Weather_App/blob/main/Screen%20Shots/Donors%20Table.png)
+- IN THIS PAGE THE USER CAN KNOW THE DONORS WHO ARE WILLING TO DONATE BLOOD
+- ![alt text](https://github.com/sherlockholmes211/Weather_App/blob/main/Screen%20Shots/Donors%20Table.png)
 
 # IMPLEMENTATION OF SECURITY (EAD) FEATURE
 - TWO STEP VERIFICATION : 
